@@ -10,3 +10,5 @@ Print Functions Program Solution:
 ![image](https://user-images.githubusercontent.com/104893913/182318162-436a06f3-3e3c-4575-89a1-31b7180a28bb.png)
 
 ![image](https://user-images.githubusercontent.com/104893913/182318464-a0c93d80-3ab2-4fdf-9a58-455248fe8b6d.png)
+
+![image](https://user-images.githubusercontent.com/104893913/182318787-21152a5a-b60c-4601-bb5a-354e6882724f.png)
